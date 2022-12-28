@@ -1,2 +1,3 @@
-Mindbox_DB.bacpac - база данных
+Mindbox_DB.bacpac - база данных/
+
 SQquery_TASK.sql - запрос
